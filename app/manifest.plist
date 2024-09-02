@@ -29,7 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.ruigetech.easyteaching444</string>
+				<string>com.xiaomage.MGKeyboardKit.MGKeyboardExt</string>
 				<key>bundle-version</key>
 				<string>3.16.4</string>
 				<key>kind</key>
